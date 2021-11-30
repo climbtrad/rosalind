@@ -8,7 +8,7 @@ def fibonacci(n, k):
 
 
 if __name__ == '__main__':
-    n = 35                  # Input Num months
+    n = 35                  # Input num months
     k = 5                   # Input litter size
     print(fibonacci(n,k))
 
