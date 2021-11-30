@@ -12,7 +12,7 @@ def parse_fasta(f):
 
     return seqs
 
-# Find maximum overlap and combine at overlap
+# Find maximum overlap and combine about the overlapping bases
 def find_max_overlap(a, b):
     max = 0
     overlap = ""
